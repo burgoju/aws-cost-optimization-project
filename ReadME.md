@@ -45,7 +45,7 @@ text
 ### 3. Resource Cleanup
 - **EC2 Instances:** Terminated idle instances with CPU utilization <5% over 30 days
 - **EBS Volumes:** Deleted unattached volumes in 'available' state
-- **Total Savings:** $XX.XX/month
+- **Total Savings:** $2/month
 
 ### 4. S3 Lifecycle Policies
 Created automated rules for:
