@@ -63,7 +63,7 @@ Created automated rules for:
 
 | Resource Type | Before Optimization | After Optimization | Monthly Savings |
 |--------------|-------------------|-------------------|-----------------|
-| EC2 Instances | $X.XX | $Y.YY | $Z.ZZ |
+| EC2 Instances | $6.90 | $4.90 | $2 |
 | EBS Volumes | $X.XX | $Y.YY | $Z.ZZ |
 | S3 Storage | $X.XX | $Y.YY | $Z.ZZ |
 | **Total** | **$X.XX** | **$Y.YY** | **$Z.ZZ (15%)** |
